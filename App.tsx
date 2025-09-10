@@ -10,9 +10,9 @@ function App() {
         <Text style={styles.subtitle}>Cross-Platform Mobile Development</Text>
       </View>
       <View style={styles.content}>
-        <Text style={styles.greeting}>Hello, I'm [Michael Forte]!</Text>
-        <Text style={styles.info}>Student ID: [n01694872]</Text>
-        <Text style={styles.info}>Program: [computer programing and analysis]</Text>
+        <Text style={styles.greeting}>Hello, I'm Michael Forte</Text>
+        <Text style={styles.info}>Student ID: n01694872</Text>
+        <Text style={styles.info}>Program: computer programing and analysis</Text>
         <View style={styles.goals}>
           <Text style={styles.sectionTitle}>My Course Goals:</Text>
           <Text style={styles.goal}>• be successful in class </Text>
